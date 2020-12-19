@@ -22,3 +22,4 @@ const dropdown = (selector = '.dropDown') => {
 		} 	
 	});
 }
+export default dropdown;
