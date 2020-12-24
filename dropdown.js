@@ -1,4 +1,11 @@
-const dropdown = (selector = '.dropDown') => {
+/**
+ * Display an hidden message in absolute box
+ * 
+ * @param {string} selector 
+ * 
+ */
+
+const dropdown = (selector = '.dropdown') => {
 	let sel;
 	const root = document.documentElement || window;
 	const clicktouch = ('ontouchstart' in root) ? 'touchstart' : 'click';

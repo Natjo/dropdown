@@ -9,10 +9,14 @@
 
 ### html
 ```html
-<button type="button" class="btn-image">See</button>
-<template>
-	<img src="https://picsum.photos/id/241/800/1400" alt="" loading="lazy" width="800" height="1400">
-</template>
+<div class="dropdown">
+	<button class="summary" type="button" aria-expanded="false" aria-controls="more_links">More links</button>
+	<div id="more_links" class="panel">
+		<div class="content">
+			<!-- content more_links -->
+		</div>
+	</div>
+</div>
 ```
 ### javascript
 ```javascript
