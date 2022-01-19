@@ -3,7 +3,7 @@
 
 ![version](https://img.shields.io/github/manifest-json/v/Natjo/dropdown)
 
-
+Not shure of what I want => see disclosure
 
 ## Usage
 
