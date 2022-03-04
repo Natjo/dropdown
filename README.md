@@ -31,3 +31,5 @@ dropdown(document.querySelector(".dropdown"));
 
 ## Demo
 [See codepen demo](https://codepen.io/natjo/pen/ZZrBMg)
+
+[Fake select](https://codepen.io/natjo/pen/BamvXBJ?editors=1010)
